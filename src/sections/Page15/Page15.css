@@ -1,5 +1,5 @@
 .container{
-	width: 80%;
+	width: 90%;
 	margin: 0 auto;
 	height: 300%;
 	padding: 30px 10px;
@@ -11,10 +11,16 @@
 	position: relative; */
 }
 
-.copasst1{
-    width: 85%; 
-    height:450px;
-     border-radius: 2%;
+p{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+h3{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 30px;
+    text-align: center;
 }
 
 .menu{
@@ -33,7 +39,7 @@
     background-color:#f9b515  ;
     box-shadow: 0 2px 15px #0A2D72;
     width: 100%;
-    margin-top: 20px;
+    margin-top: 5px;
 }
 
 .tf{
@@ -61,3 +67,19 @@
     color: #0A2D72;
 }
 
+.copasst{
+    width: 220px;
+    border-radius:15px;
+}
+
+.card{
+    display:flex;
+    flex-direction:column;
+    justify-content: space-around;
+    width:230px;
+    border: 1px solid lightgray;
+    box-shadow: 2px 2px 8px 4px #0A2D72;
+    border-radius:15px;
+    margin-left: 30%;
+    margin-top: 1%;
+}
