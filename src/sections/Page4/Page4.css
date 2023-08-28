@@ -4,7 +4,7 @@
 
 .container{
 	width: 80%;
-	margin: 0 auto;
+	margin: 150px 750px;
 	height: 300%;
 	padding: 30px 10px;
 	text-align: justify;
@@ -19,11 +19,20 @@ h2,h3{
     text-align: center;
     color: #0A2D72;
 }
+.menu{
+    box-shadow: 0 2px 15px #f9b515 ;
+    background-color: #0A2D72;
+    width: 75%;
+    margin-left: 10%;
+    margin-top: 4%;
+}
+
 .footer{
     background-color:#f9b515  ;
     box-shadow: 0 2px 15px #0A2D72;
-    width: 100%;
+    width: 75%;
     margin-top: 20px;
+    margin-left: 10%;
 }
 
 .tf{
@@ -40,13 +49,13 @@ h2,h3{
 
 
 .btn2{
-    margin-left: 70%;
-    font-size: 275%;
+    margin-left: 78%;
+    font-size: 60px;
     color: #0A2D72;
 }
 
 .btn1{
-    font-size: 275%;
+    font-size: 60px;
     color: #0A2D72;
 }
 
@@ -65,6 +74,7 @@ h2,h3{
 
 li{
     text-align: center;
-    font-size: 20px;
+    font-size: 30px;
     font-family: 'Roboto Condensed', sans-serif;
+    margin-top: 3%;
 }

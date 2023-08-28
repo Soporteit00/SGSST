@@ -1,6 +1,6 @@
 .container{
 	width: 80%;
-	margin: 0 auto;
+	margin:150px 750px;
 	height: 300%;
 	padding: 30px 10px;
 	text-align: justify;
@@ -15,11 +15,6 @@
     width: 85%;
     height: 450px;
 }
-
-.menu{
-    box-shadow: 0 2px 15px #f9b515 ;
-    background-color: #0A2D72;
-  }
   
   .titulo{
     color:  #fff;
@@ -28,12 +23,22 @@
     font-family: 'Roboto Condensed', sans-serif;
   }
 
+
+  .menu{
+    box-shadow: 0 2px 15px #f9b515 ;
+    background-color: #0A2D72;
+    width: 75%;
+    margin-left: 10%;
+    margin-top: 4%;
+  }
+  
   .footer{
     background-color:#f9b515  ;
     box-shadow: 0 2px 15px #0A2D72;
-    width: 100%;
+    width: 75%;
     margin-top: 20px;
-}
+    margin-left: 10%;
+  }
 
 .tf{
     color:  #0A2D72;
@@ -43,26 +48,28 @@
 }
 .btn{
     text-align: right;
-    font-size: 275%;
+    font-size: 60px;
     color: #0A2D72;
 }
 
 
 .btn1{
-    margin-left: 70%;
-    font-size: 275%;
+    margin-left: 78%;
+    font-size: 60px;
     color: #0A2D72;
 }
 
 .btn2{
-   margin-left: 70%;
-    font-size: 275%;
+   margin-left: 78%;
+    font-size: 60px;
     color: #0A2D72;
 }
 
 h2{
     text-align: center;
     color: #0A2D72;
+    font-family: 'Roboto Condensed', sans-serif;
+
   }
   
   .imgp{
@@ -73,13 +80,13 @@ h2{
 
 .imgp4{
     text-align: center;
-    margin-top: 20%;
+    margin-top: 5%;
     box-shadow: 0 2px 25px #f9b515 ;
 }
 
 .imgp3{
     text-align: center;
-    margin-top: 20%;
+    margin-top: 5%;
     margin-left: 40%;
     box-shadow: 0 2px 25px #f9b515 ;
 }
@@ -87,7 +94,7 @@ h2{
 
 .imgp5{
     text-align: center;
-    margin-top: 5%;
+    margin-top: 2%;
     box-shadow: 0 2px 25px #f9b515 ;
 
 }

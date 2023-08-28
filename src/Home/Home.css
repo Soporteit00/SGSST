@@ -3,8 +3,8 @@
 
 
 .container{
-	width: 80%;
-	margin: 0 auto;
+	width: 100%;
+	margin: 150px 750px;
 	height: 300%;
 	padding: 30px 10px;
 	text-align: justify;
@@ -30,14 +30,10 @@ h4{
 
 .imgh{
 	text-align: center;
-	width: 50%;
-	height: 300px;
+	width: 70%;
+	height: 350px;
 }
 
-.menu{
-    box-shadow: 0 2px 15px #f9b515 ;
-    background-color: #0A2D72;
-}
 
 .titulo{
     color:  #fff;
@@ -46,12 +42,21 @@ h4{
     font-family: 'Roboto Condensed', sans-serif;
 }
 
+.menu{
+    box-shadow: 0 2px 15px #f9b515 ;
+    background-color: #0A2D72;
+    width: 75%;
+    margin-left: 10%;
+    margin-top: 4%;
+}
+
 
 .footer{
     background-color:#f9b515  ;
     box-shadow: 0 2px 15px #0A2D72;
-    width: 100%;
+    width: 75%;
     margin-top: 20px;
+    margin-left: 10%;
 }
 
 .tf{
@@ -69,12 +74,12 @@ h4{
 
 .btn1{
     margin-left: 70%;
-    font-size: 275%;
+    font-size: 60px;
     color: #0A2D72;
 }
 
 .btn2{
     margin-right: 4%;
-    font-size: 275%;
+    font-size: 300px;
     color: #0A2D72;
 }

@@ -1,6 +1,6 @@
 .container{
 	width: 80%;
-	margin: 0 auto;
+	margin: 150px 750px;
 	height: 300%;
 	padding: 30px 10px;
 	text-align: justify;
@@ -26,14 +26,9 @@ p{
     width: 90%;
 }
 .pl{
-    font-size: 22px;
+    font-size: 28px;
 }
 
-.menu{
-    box-shadow: 0 2px 15px #f9b515 ;
-    background-color: #0A2D72;
-  }
-  
   .titulo{
     color:  #fff;
     font-size: 42px;
@@ -41,12 +36,21 @@ p{
     font-family: 'Roboto Condensed', sans-serif;
   }
 
+  .menu{
+    box-shadow: 0 2px 15px #f9b515 ;
+    background-color: #0A2D72;
+    width: 75%;
+    margin-left: 10%;
+    margin-top: 4%;
+  }
+  
   .footer{
     background-color:#f9b515  ;
     box-shadow: 0 2px 15px #0A2D72;
-    width: 100%;
-    margin-top: 20px;
-}
+    width: 75%;
+    margin-top: 25px;
+    margin-left: 10%;
+  }
 
 .tf{
     color:  #0A2D72;
@@ -56,19 +60,19 @@ p{
 }
 .btn{
     text-align: right;
-    font-size: 275%;
+    font-size: 60px;
     color: #0A2D72;
 }
 
 
 .btn1{
-    margin-left: 70%;
-    font-size: 275%;
+    margin-left: 78%;
+    font-size: 60px;
     color: #0A2D72;
 }
 
 .btn2{
    margin-left: 70%;
-    font-size: 275%;
+    font-size: 60px;
     color: #0A2D72;
 }
