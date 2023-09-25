@@ -1,6 +1,6 @@
 .container{
 	width: 80%;
-	margin: 150px 750px;
+	margin: 150px 100px;
 	height: 300%;
 	padding: 30px 10px;
 	text-align: justify;
@@ -68,6 +68,7 @@
 h2{
     color: #0A2D72;
     margin-top: 4%;
+    text-align: center;
 }
 .details{
     position: absolute;
@@ -109,7 +110,7 @@ hr{
   .menu{
     box-shadow: 0 2px 15px #f9b515 ;
     background-color: #0A2D72;
-    width: 75%;
+    width: 80%;
     margin-left: 10%;
     margin-top: 4%;
   }
@@ -117,7 +118,7 @@ hr{
   .footer{
     background-color:#f9b515  ;
     box-shadow: 0 2px 15px #0A2D72;
-    width: 75%;
+    width: 80%;
     margin-top: 25px;
     margin-left: 10%;
   }
@@ -128,22 +129,16 @@ hr{
     text-decoration: none;
     font-family: 'Roboto Condensed', sans-serif;
 }
+
+  
+  .btn1{
+    margin-left: 70%;
+    font-size: 50px;
+    color: #0A2D72;
+  }
+
 .btn{
-    text-align: right;
-    font-size: 60px;
-    color: #0A2D72;
-}
-
-
-.btn1{
-    margin-left: 78%;
-    font-size: 60px;
-    color: #0A2D72;
-}
-
-.btn2{
-   margin-left: 70%;
-    font-size:60px;
+    font-size:50px;
     color: #0A2D72;
 }
 

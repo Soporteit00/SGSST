@@ -1,6 +1,6 @@
 .container{
 	width: 90%;
-	margin: 150px 750px;
+	margin: 145px 100px;
 	height: 300%;
 	padding: 30px 10px;
 	text-align: justify;
@@ -42,7 +42,7 @@ h4{
   .menu{
     box-shadow: 0 2px 15px #f9b515 ;
     background-color: #0A2D72;
-    width: 75%;
+    width: 80%;
     margin-left: 10%;
     margin-top: 4%;
   }
@@ -50,7 +50,7 @@ h4{
   .footer{
     background-color:#f9b515  ;
     box-shadow: 0 2px 15px #0A2D72;
-    width: 75%;
+    width: 80%;
     margin-top: 25px;
     margin-left: 10%;
   }
@@ -63,22 +63,16 @@ h4{
 }
 .btn{
     text-align: right;
-    font-size: 60px;
+    font-size: 50px;
     color: #0A2D72;
 }
 
 
 .btn1{
-    margin-left: 78%;
-    font-size: 60px;
+    margin-left: 70%;
+    font-size: 50px;
     color: #0A2D72;
-}
-
-.btn2{
-   margin-left: 70%;
-    font-size: 60px;;
-    color: #0A2D72;
-}
+  }
 
 .copasst{
     width: 220px;
